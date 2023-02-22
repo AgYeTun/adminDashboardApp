@@ -1,0 +1,29 @@
+-- MaterialUI --
+
+@mui/material
+@emotion/react
+@emotion/styled
+@mui/icons-material
+@mui/x-data-grid
+
+-- Router, Sidebar, Form, Validation --
+
+react-router-dom@6
+react-pro-sidebar
+formik
+yup
+
+-- Calendar --
+
+@fullcalendar/core
+@fullcalendar/daygrid
+@fullcalendar/timegrid
+@fullcalendar/list
+
+-- Charts --
+
+@nivo/core
+@nivo/pie
+@nivo/line
+@nivo/bar
+@nivo/geo
